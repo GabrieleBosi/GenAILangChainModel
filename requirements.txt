@@ -1,5 +1,3 @@
-langchain_openai==0.1.3
-langchain.prompts==0.1.0
-langchain.chains==0.1.0
+langchain==0.1.16
 python-dotenv==1.0.1
 streamlit==1.33.0
